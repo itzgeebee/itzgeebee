@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an eCommerce site<br>👯 I’m looking to collaborate on the frontend of my eCommercerce site<br>🌱 I’m currently learning Django, Javascript, Cloud computing<br>💬 Ask me about Anything Python, Flask<br>
+🔭 I’m currently working on an eCommerce site<br>👯 I’m looking to collaborate on the frontend of my eCommercerce site and an open source communication platform called teamwork<br>🌱 I’m currently learning Django, Javascript, Cloud computing<br>💬 Ask me about Anything Python, Flask, Backend development<br>
 
 
 ## 🌐 Socials:
