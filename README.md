@@ -15,3 +15,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itzgeebee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![@itzgeebee's Holopin board](https://holopin.me/itzgeebee)](https://holopin.io/@itzgeebee)
